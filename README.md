@@ -263,19 +263,19 @@ return:`Number`
 ```javascript
 $("#page").on("pageClicked", function (event, data) {
     //分页按钮点击事件
-}
+})
 ```
 
 ####jumpClicked
 ```javascript
 $("#page").on("jumpClicked", function (event, data) {
     //跳转按钮点击事件
-}
+})
 ```
 
 ####pageSizeChanged
 ```javascript
 $("#page").on("pageSizeChanged", function (event, data) {
     //页面大小切换事件
-}
+})
 ```
